@@ -74,13 +74,13 @@ Adjust your range and fuel in `main.js`
           apikey: apiKey
       },
    ```
-Change the range in kilometers
+Change the range in kilometers in `main.js`
    ```JS
       data: {
           rad: 10,
       },
    ```
-Change Fuel between: E10, E5 or Diesel
+Change Fuel between: `E10`, `E5` or `Diesel` in `main.js`
    ```JS
       data: {
           type: "e5",
