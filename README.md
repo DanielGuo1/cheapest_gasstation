@@ -43,7 +43,7 @@ If you want to run this code locally, get a copy and follow these simple steps.
 2. Get a Access Token at [https://docs.mapbox.com/help/getting-started/access-tokens](https://docs.mapbox.com/help/getting-started/access-tokens/)
 3. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/cheapest_gasstation.git
+   git clone https://github.com/DanielGuo1/cheapest_gasstation.git
    ```
 3. Enter your API in `main.js`
    ```JS
